@@ -1,16 +1,35 @@
-### Hi there 👋
+ ### Hi there 👋
 
-<!--
-**muhammadarmaghan/muhammadarmaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building my self from reading books and new things
 
-Here are some ideas to get you started:
+- Currently working on Node.js Clickhouse Linux and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I love to listen people talking on new things and revolutions
+
+- Following are the tools I'm familiar with:
+
+#### Backend (Language/Systems):
+
+Node.js, Java, DPDK.
+
+#### Frontend (Language/Frameworks):
+
+ Angular.js
+
+#### Mobile:
+
+Ionic
+
+#### Databases: 
+
+Clickhouse, MongoDB
+
+#### DevOps / Cloud: 
+
+Nginx, Pm2, Docker, Docker Compose, Kubernetes, Apache Superset
+
+#### On-Premise:
+
+KVM/Qemu, Vmware vSphere
+
+ 
