@@ -10,7 +10,7 @@
 
 #### Backend (Language/Systems):
 
-Node.js, Java, DPDK.
+Node.js (Express.js), Java, DPDK.
 
 #### Frontend (Language/Frameworks):
 
@@ -26,7 +26,7 @@ Clickhouse, MongoDB
 
 #### DevOps / Cloud: 
 
-Nginx, Pm2, Docker, Docker Compose, Kubernetes, Apache Superset
+Nginx, Pm2, Docker / Containers, Docker Compose, Kubernetes, Apache Superset
 
 #### On-Premise:
 
