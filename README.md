@@ -14,7 +14,7 @@ Node.js (Express.js), Java, DPDK.
 
 #### Frontend (Language/Frameworks):
 
- Angular.js
+ Angular
 
 #### Mobile:
 
