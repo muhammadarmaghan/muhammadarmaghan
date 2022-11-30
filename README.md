@@ -49,7 +49,7 @@
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/php.svg" width="100">
     </td>
      <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nestjs.svg" width="100">
+        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nestjs.png" width="100">
     </td>
 </tr>
 </table>
