@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Armaghan
 
-### I'm a Software Engineer | Beginner Big Data Developer | Full Stack Developer
+### Software Engineer | Full Stack Developer | DevOps Engineer
 
 - 📚 Building my self from reading books and new things
 - 🔭 I’m currently working as a full stack Developer
