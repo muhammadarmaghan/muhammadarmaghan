@@ -4,16 +4,13 @@
 
 - 📚 Building my self from reading books and new things
 - 🔭 I’m currently working as a full stack Developer
-- 🌱 I’m currently learning Nodejs, Angular, Kubernetes, dockers, Kafka, Clickhouse.
+- 🌱 I’m currently wokring on Nodejs, Nestjs, Elasticsearch, dockers, AWS, GCP.
 - 🖥️ working my way towards learning more about software deployment Architecture
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
 <h3> Frontend </h3>
 <table width="100">
 <tr>
-    <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/angular.png" width="100" >
-    </td>
     <td align='center' width="150" height="150">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/javascript.png" width="100">
     </td>
@@ -22,12 +19,6 @@
     </td>
     <td align='center' width="150" height="150">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/css.png" width="100" >
-    </td>
-    <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/tailwind.svg"width="100" >
-    </td>
-    <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/ant-design.png" width="100">
     </td>
 </tr>       
 </table>
@@ -40,29 +31,13 @@
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nodejs.png" width="100" >
     </td>
     <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/python.png" width="100" >
+        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nestjs.png" width="100">
     </td>
     <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/golang.png" width="100">
+        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/python.png" width="100" >
     </td>
      <td align='center' width="150" height="150">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/php.svg" width="100">
-    </td>
-     <td align='center' width="150" height="150">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nestjs.png" width="100">
-    </td>
-</tr>
-</table>
-</br>
-
-<h3> Mobile </h3>
-<table width="100">
-<tr>
-    <td align='center' width="300">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/ionic.png" width="250" >
-    </td>
-    <td align='center' width="300">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/react-native.png" width="250" >
     </td>
 </tr>
 </table>
@@ -90,10 +65,6 @@
     </td>
       <td align='center' width="200">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/mysql.png" width="250" >
-    </td>
-        <td align='center' width="200">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/firebase.png" width="250" >
-    </td>
     <td align='center' width="200">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/redis.png" width="250" >
     </td>
@@ -108,14 +79,8 @@
     <td align='center' width="200">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/expressjs.png" width="250" >
     </td>
-    <td align='center' width="200">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nextjs.svg" width="250" >
-    </td>
      <td align='center' width="200">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/TypeScript.png" width="250" >
-    </td>
-     <td align='center' width="200">
-        <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/codeigniter.svg" width="250" >
     </td>
 </tr>
 
