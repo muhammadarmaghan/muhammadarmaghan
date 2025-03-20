@@ -8,7 +8,7 @@
 - 🖥️ working my way towards learning more about software deployment Architecture
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
-<h3> Frontend </h3>
+<!-- <h3> Frontend </h3>
 <table width="100">
 <tr>
     <td align='center' width="150" height="150">
@@ -22,7 +22,7 @@
     </td>
 </tr>       
 </table>
-</br>
+</br> -->
 
 <h3> Backend </h3>
 <table width="100">
@@ -33,12 +33,12 @@
     <td align='center' width="150" height="150">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/nestjs.png" width="100">
     </td>
-    <td align='center' width="150" height="150">
+<!--     <td align='center' width="150" height="150">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/python.png" width="100" >
     </td>
      <td align='center' width="150" height="150">
         <img src="https://github.com/muhammadarmaghan/muhammadarmaghan/blob/main/images/php.svg" width="100">
-    </td>
+    </td> -->
 </tr>
 </table>
 </br>
